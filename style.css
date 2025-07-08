@@ -1,0 +1,1037 @@
+.home,
+.home * {
+  box-sizing: border-box;
+}
+.home {
+  background: #ffffff;
+  height: 4555px;
+  position: relative;
+}
+.main {
+  width: 1920px;
+  height: 4592px;
+  position: absolute;
+  left: 0px;
+  top: -28px;
+}
+.background {
+  background: #f3f3f3;
+  height: 1259.89px;
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  top: 0px;
+}
+.heading-1-intelligent-capital-management-for-private-companies-lenders {
+  color: #1e1e1c;
+  text-align: center;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 62.5px;
+  line-height: 70.4px;
+  letter-spacing: -0.96px;
+  font-weight: 300;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 150px;
+  width: 963.4px;
+  height: 151.39px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.combine-banking-payments-investing-taxes-retirement-and-business-compliance-powering-financial-inclusion-and-growth-for-independent-entrepreneurs-locally-and-globally {
+  color: #53524b;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 15.25px;
+  line-height: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 322.78px;
+  width: 720.81px;
+  height: 44px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.link {
+  background: #dabd84;
+  border-radius: 4px;
+  border-style: solid;
+  border-color: #dabd84;
+  border-width: 2px;
+  width: 153.86px;
+  position: absolute;
+  left: calc(50% - 162.89px);
+  bottom: 795.11px;
+  top: 408.7799987792969px;
+}
+.contact-us {
+  color: #fafaf9;
+  text-align: center;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 13.5625px;
+  line-height: 16px;
+  font-weight: 500;
+  position: absolute;
+  left: calc(50% - 44.93px);
+  top: 20px;
+  width: 74.06px;
+  height: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.svg {
+  width: 8px;
+  height: 12.8px;
+  position: absolute;
+  left: calc(50% - -36.93px);
+  top: 50%;
+  translate: 0 -50%;
+  overflow: visible;
+}
+.component-3 {
+  background: rgba(30, 30, 28, 0);
+  border-radius: 4px;
+  border-style: solid;
+  border-color: #74736d;
+  border-width: 1px;
+  padding: 20px 32px 20px 32px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  width: 148px;
+  position: absolute;
+  left: 973px;
+  top: 409px;
+  overflow: hidden;
+}
+.text {
+  background: linear-gradient(to left, #181818, #181818);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: center;
+  font-family: var(
+    --wwwjoinarccom-inter-medium-font-family,
+    "Inter-Medium",
+    sans-serif
+  );
+  font-size: var(--wwwjoinarccom-inter-medium-font-size, 13.78125px);
+  line-height: var(--wwwjoinarccom-inter-medium-line-height, 16px);
+  font-weight: var(--wwwjoinarccom-inter-medium-font-weight, 500);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.background2 {
+  background: #ffffff;
+  height: 160px;
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  bottom: 0px;
+}
+.screenshot-2025-07-07-at-1-36-39-pm-1 {
+  border-radius: 29px;
+  width: 1319px;
+  height: 805px;
+  position: absolute;
+  left: 300px;
+  top: 507px;
+  box-shadow: 0px 4px 25px 0px rgba(0, 0, 0, 0.25);
+  object-fit: cover;
+  aspect-ratio: 1319/805;
+}
+.section-heading-1-cash-management-essentials-built-for-scale {
+  color: #1e1e1c;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 61.625px;
+  line-height: 70.4px;
+  letter-spacing: -0.96px;
+  font-weight: 400;
+  position: absolute;
+  left: 397px;
+  top: 1380px;
+  width: 969.62px;
+  height: 151.39px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.section {
+  height: 537px;
+  position: absolute;
+  right: 315.42px;
+  left: 315.4200134277344px;
+  top: 1606.67px;
+}
+.container {
+  border-radius: 16px;
+  position: absolute;
+  right: 880.78px;
+  left: 0px;
+  bottom: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+.link2 {
+  background: #cbd9e3;
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  bottom: 0px;
+  top: 0px;
+}
+.overlay {
+  background: rgba(30, 30, 28, 0.1);
+  border-radius: 20px;
+  width: 64px;
+  position: absolute;
+  left: 39.58px;
+  bottom: 259.67px;
+  top: 248.3299560546875px;
+}
+.growth {
+  color: #1e1e1c;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 13.34375px;
+  line-height: 22.4px;
+  font-weight: 400;
+  position: absolute;
+  left: 8.58px;
+  top: 6.11px;
+  width: 156px;
+  height: 18px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.heading-2-manage-everyday-business-finances {
+  color: #1e1e1c;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 28.828125px;
+  line-height: 34.5px;
+  letter-spacing: -0.45px;
+  font-weight: 400;
+  position: absolute;
+  left: 40px;
+  top: 291.61px;
+  width: 237.3px;
+  height: 72.5px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.grow-globally-boost-cash-flow-with-high-yield-accounts-or-treasuries-and-earn-cashback-on-business-card-purchases {
+  color: #53524b;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 15.125px;
+  line-height: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 40px;
+  top: 380.61px;
+  width: 294.5px;
+  height: 68px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.screenshot-2025-07-07-at-2-38-42-pm-1 {
+  border-radius: 16px;
+  width: 335.45px;
+  height: 188px;
+  position: absolute;
+  left: 36.58px;
+  top: 33.33px;
+  box-shadow: 0px 4px 10px 0px rgba(0, 0, 0, 0.25);
+  object-fit: cover;
+  aspect-ratio: 335.45/188;
+}
+.learn-more {
+  color: #1e1e1c;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 15.5px;
+  line-height: 22.4px;
+  font-weight: 500;
+  position: absolute;
+  left: 40px;
+  top: 475.61px;
+  width: 84px;
+  height: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.container2 {
+  border-radius: 16px;
+  position: absolute;
+  right: 440.39px;
+  left: 440.3800048828125px;
+  bottom: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+.link3 {
+  background: #ebe6d9;
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  bottom: 0px;
+  top: 0px;
+}
+.overlay2 {
+  background: rgba(30, 30, 28, 0.1);
+  border-radius: 20px;
+  width: 52px;
+  position: absolute;
+  left: 40.2px;
+  bottom: 259.67px;
+  top: 248.3299560546875px;
+}
+.time {
+  color: #1e1e1c;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 13.015625px;
+  line-height: 22.4px;
+  font-weight: 400;
+  position: absolute;
+  left: 10.2px;
+  top: 6.09px;
+  width: 166px;
+  height: 18px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.heading-2-unlock-competitive-yield-with-a-treasury-account {
+  color: #1e1e1c;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 28.7109375px;
+  line-height: 34.5px;
+  letter-spacing: -0.45px;
+  font-weight: 400;
+  position: absolute;
+  left: 40px;
+  top: 291.63px;
+  width: 322.73px;
+  height: 72.5px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.all-in-one-platform-with-powerful-tools-tech-and-expert-support-no-coding-or-setup-needed {
+  color: #53524b;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 15.25px;
+  line-height: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 40px;
+  top: 380.63px;
+  width: 315.84px;
+  height: 44px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.screenshot-2025-07-07-at-3-10-02-pm-1 {
+  width: 294.76px;
+  height: 186px;
+  position: absolute;
+  left: 61.2px;
+  top: 31.33px;
+  aspect-ratio: 294.76/186;
+}
+.screenshot-2025-07-07-at-3-10-37-pm-2 {
+  opacity: 0.6;
+  width: 193.11px;
+  height: 154px;
+  position: absolute;
+  left: 36.2px;
+  top: 31.33px;
+  box-shadow: 0px 4px 10px 0px rgba(0, 0, 0, 0.25);
+  object-fit: cover;
+  aspect-ratio: 193.11/154;
+}
+.screenshot-2025-07-07-at-3-10-37-pm-1 {
+  width: 209.42px;
+  height: 177px;
+  position: absolute;
+  left: 176.2px;
+  top: 71.33px;
+  box-shadow: 0px 4px 10px 0px rgba(0, 0, 0, 0.25);
+  object-fit: cover;
+  aspect-ratio: 209.42/177;
+}
+.container3 {
+  border-radius: 16px;
+  position: absolute;
+  right: 0.01px;
+  left: 880.77001953125px;
+  bottom: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+.link4 {
+  background: #0b181c;
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  bottom: 0px;
+  top: 0px;
+}
+.overlay3 {
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 20px;
+  width: 68px;
+  position: absolute;
+  left: 39.81px;
+  bottom: 259.67px;
+  top: 248.3299560546875px;
+}
+.money {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 13.5625px;
+  line-height: 22.4px;
+  font-weight: 400;
+  position: absolute;
+  left: 14px;
+  top: 5.5px;
+  width: 100.72px;
+  height: 18px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.heading-2-outsource-your-debt-raise-with-arc {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 28.359375px;
+  line-height: 34.5px;
+  letter-spacing: -0.45px;
+  font-weight: 400;
+  position: absolute;
+  left: 40px;
+  top: 291.61px;
+  width: 268.79px;
+  height: 72.5px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.grow-revenue-globally-boost-cash-with-high-yield-accounts-or-treasuries-and-earn-cashback-on-every-purchase {
+  color: rgba(255, 255, 255, 0.75);
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 15.25px;
+  line-height: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 40px;
+  top: 380.61px;
+  width: 293.07px;
+  height: 44px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.learn-more2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 15.5px;
+  line-height: 22.4px;
+  font-weight: 500;
+  position: absolute;
+  left: 40px;
+  top: 475.61px;
+  width: 84px;
+  height: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.screenshot-2025-07-07-at-3-27-47-pm-1 {
+  border-radius: 14px;
+  width: 314.76px;
+  height: 176px;
+  position: absolute;
+  left: 46.81px;
+  top: 36.33px;
+  box-shadow: 0px 4px 10px 0px rgba(0, 0, 0, 0.25);
+  object-fit: cover;
+  aspect-ratio: 314.76/176;
+}
+.section-heading-1-enterprise-grade-security-and-support-comes-standard {
+  color: #1e1e1c;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 60.875px;
+  line-height: 70.4px;
+  letter-spacing: -0.96px;
+  font-weight: 400;
+  position: absolute;
+  left: 391px;
+  top: 2363px;
+  width: 833.87px;
+  height: 151.39px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.section2 {
+  height: 498.17px;
+  position: absolute;
+  right: 391.84px;
+  left: 391px;
+  top: 2600px;
+}
+.lock-icon {
+  border-radius: 10px;
+  width: 322.19px;
+  height: 357.98px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+.screenshot-2025-07-07-at-3-41-10-pm-1 {
+  width: 358px;
+  height: 361px;
+  position: absolute;
+  left: -18px;
+  top: -3px;
+  object-fit: cover;
+  aspect-ratio: 358/361;
+}
+.llc-compliance {
+  color: #1e1e1c;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 21.3125px;
+  line-height: 24.2px;
+  letter-spacing: -0.33px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: 387.99px;
+  width: 250.92px;
+  height: 28px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.form-your-u-s-business-get-an-ein-and-stay-compliant-with-automated-legal-and-tax-support-built-for-global-founders {
+  color: #53524b;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 15.25px;
+  line-height: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: 428.18px;
+  width: 313.94px;
+  height: 68px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.checkmark-icon {
+  border-radius: 10px;
+  width: 322.19px;
+  height: 357.98px;
+  position: absolute;
+  left: 407.49px;
+  top: 0px;
+  overflow: hidden;
+}
+.screenshot-2025-07-07-at-3-43-02-pm-1 {
+  width: 356.7px;
+  height: 359px;
+  position: absolute;
+  left: -17.49px;
+  top: -1px;
+  object-fit: cover;
+  aspect-ratio: 356.7/359;
+}
+.business-banking {
+  color: #1e1e1c;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20.96875px;
+  line-height: 24.2px;
+  letter-spacing: -0.33px;
+  font-weight: 400;
+  position: absolute;
+  left: 407.49px;
+  top: 387.99px;
+  width: 222.97px;
+  height: 28px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.open-a-high-yield-fdic-insured-account-with-no-fees-easily-manage-money-and-organize-funds-in-sub-accounts {
+  color: #53524b;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 15.25px;
+  line-height: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 407.49px;
+  top: 428.18px;
+  width: 306.37px;
+  height: 68px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.chat-bubble-icon {
+  border-radius: 10px;
+  width: 322.19px;
+  height: 357.98px;
+  position: absolute;
+  left: 814.97px;
+  top: 0px;
+  overflow: hidden;
+}
+.screenshot-2025-07-07-at-3-44-23-pm-1 {
+  width: 362.3px;
+  height: 367px;
+  position: absolute;
+  left: -19.97px;
+  top: -5px;
+  object-fit: cover;
+  aspect-ratio: 362.3/367;
+}
+.cards-cashback {
+  color: #1e1e1c;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20.796875px;
+  line-height: 24.2px;
+  letter-spacing: -0.33px;
+  font-weight: 400;
+  position: absolute;
+  left: 814.97px;
+  top: 387.99px;
+  width: 196.29px;
+  height: 28px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.use-physical-and-virtual-cards-to-track-spending-earn-cashback-and-build-business-credit-with-every-purchase {
+  color: #53524b;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 15.25px;
+  line-height: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 814.97px;
+  top: 428.18px;
+  width: 315.53px;
+  height: 68px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.lock-icon2 {
+  border-radius: 10px;
+  width: 322.19px;
+  height: 357.98px;
+  position: absolute;
+  left: 391px;
+  top: 3269px;
+  overflow: hidden;
+}
+.screenshot-2025-07-07-at-3-46-41-pm-1 {
+  width: 362.85px;
+  height: 366px;
+  position: absolute;
+  left: -20px;
+  top: -4px;
+  object-fit: cover;
+  aspect-ratio: 362.85/366;
+}
+.payments-tax {
+  color: #1e1e1c;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 21.3125px;
+  line-height: 24.2px;
+  letter-spacing: -0.33px;
+  font-weight: 400;
+  position: absolute;
+  left: 391px;
+  top: 3656.99px;
+  width: 250.92px;
+  height: 28px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.accept-card-payments-via-links-or-invoices-with-next-day-payouts-sales-tax-vat-and-gst-compliance-handled-automatically {
+  color: #53524b;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 15.25px;
+  line-height: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 391px;
+  top: 3697.18px;
+  width: 313.94px;
+  height: 68px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.checkmark-icon2 {
+  border-radius: 10px;
+  width: 322.19px;
+  height: 357.98px;
+  position: absolute;
+  left: 798.49px;
+  top: 3269px;
+  overflow: hidden;
+}
+.screenshot-2025-07-07-at-3-55-04-pm-1 {
+  width: 354.1px;
+  height: 361px;
+  position: absolute;
+  left: -15.49px;
+  top: -3px;
+  object-fit: cover;
+  aspect-ratio: 354.1/361;
+}
+.books-support {
+  color: #1e1e1c;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20.96875px;
+  line-height: 24.2px;
+  letter-spacing: -0.33px;
+  font-weight: 400;
+  position: absolute;
+  left: 798.49px;
+  top: 3656.99px;
+  width: 222.97px;
+  height: 28px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.track-income-and-expenses-in-real-time-we-handle-tax-filing-and-help-you-maximize-deductions-with-expert-support {
+  color: #53524b;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 15.25px;
+  line-height: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 798.49px;
+  top: 3697.18px;
+  width: 306.37px;
+  height: 68px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.chat-bubble-icon2 {
+  border-radius: 10px;
+  width: 322.19px;
+  height: 357.98px;
+  position: absolute;
+  left: 1205.97px;
+  top: 3269px;
+  overflow: hidden;
+}
+.screenshot-2025-07-07-at-3-57-03-pm-1 {
+  width: 363.64px;
+  height: 366px;
+  position: absolute;
+  left: -20.97px;
+  top: -4px;
+  object-fit: cover;
+  aspect-ratio: 363.64/366;
+}
+.invest-retire {
+  color: #1e1e1c;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20.796875px;
+  line-height: 24.2px;
+  letter-spacing: -0.33px;
+  font-weight: 400;
+  position: absolute;
+  left: 1205.97px;
+  top: 3656.99px;
+  width: 196.29px;
+  height: 28px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.move-idle-cash-into-treasuries-or-money-market-funds-open-a-solo-401-k-to-grow-retirement-savings-and-cut-taxes {
+  color: #53524b;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 15.25px;
+  line-height: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 1205.97px;
+  top: 3697.18px;
+  width: 315.53px;
+  height: 68px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.section3 {
+  background: #1e1e1c;
+  height: 644.36px;
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  top: 3939.14px;
+}
+.heading-2-get-access-to-the-capital-and-cash-management-experience-built-for-scale {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 61px;
+  line-height: 70.4px;
+  letter-spacing: -0.96px;
+  font-weight: 400;
+  position: absolute;
+  left: 391.42px;
+  top: 134px;
+  width: 964.44px;
+  height: 221.78px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.all-without-hidden-costs {
+  color: rgba(255, 255, 255, 0.75);
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 17.15625px;
+  line-height: 25.2px;
+  font-weight: 400;
+  position: absolute;
+  left: 391.42px;
+  top: 384.17px;
+  width: 364px;
+  height: 23px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.link5 {
+  background: #dabd84;
+  border-radius: 4px;
+  border-style: solid;
+  border-color: #dabd84;
+  border-width: 2px;
+  width: 153.86px;
+  height: 56px;
+  position: absolute;
+  left: 391.42px;
+  top: 448.36px;
+}
+.contact-us2 {
+  color: #1e1e1c;
+  text-align: center;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 13.5625px;
+  line-height: 16px;
+  font-weight: 500;
+  position: absolute;
+  left: calc(50% - 44.93px);
+  top: 20px;
+  width: 74.06px;
+  height: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.svg2 {
+  width: 8px;
+  height: 12.8px;
+  position: absolute;
+  left: calc(50% - -36.93px);
+  top: 50%;
+  translate: 0 -50%;
+  overflow: visible;
+}
+.rectangle-1 {
+  background: #ffffff;
+  width: 1920px;
+  height: 112px;
+  position: fixed;
+  left: 0px;
+  top: -12px;
+  box-shadow: 0px 4px 50px 0px rgba(0, 0, 0, 0.25);
+}
+.item {
+  width: 155.95px;
+  height: 63.03px;
+  position: fixed;
+  right: 388.5px;
+  top: calc(50% - 3488.5px);
+}
+.aure-transparent-logo-1 {
+  width: 116.56px;
+  height: 43px;
+  position: fixed;
+  left: 388px;
+  top: 29px;
+  object-fit: cover;
+  aspect-ratio: 116.56/43;
+}
+.container4 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: center;
+  position: fixed;
+  right: 770px;
+  left: 769px;
+  bottom: 4464px;
+  top: -4px;
+}
+.list {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.item2 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.container5 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.component-5 {
+  padding: 2.67px 20px 2.67px 20px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.text2 {
+  color: var(--color-grey-31, #53524b);
+  text-align: center;
+  font-family: var(
+    --wwwjoinarccom-inter-medium-font-family,
+    "Inter-Medium",
+    sans-serif
+  );
+  font-size: var(--wwwjoinarccom-inter-medium-font-size, 15.625px);
+  line-height: var(--wwwjoinarccom-inter-medium-line-height, 22.4px);
+  font-weight: var(--wwwjoinarccom-inter-medium-font-weight, 500);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  -webkit-text-stroke: 0.5px #53524b;
+}
+.component-52 {
+  padding: 2.75px 20px 2.75px 20px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.text3 {
+  color: var(--color-grey-31, #53524b);
+  text-align: center;
+  font-family: var(
+    --wwwjoinarccom-inter-medium-font-family,
+    "Inter-Medium",
+    sans-serif
+  );
+  font-size: var(--wwwjoinarccom-inter-medium-font-size, 15.625px);
+  line-height: var(--wwwjoinarccom-inter-medium-line-height, 22.4px);
+  font-weight: var(--wwwjoinarccom-inter-medium-font-weight, 500);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.component-6 {
+  padding: 2.3px 20px 2.3px 20px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.text4 {
+  color: var(--color-grey-31, #53524b);
+  text-align: center;
+  font-family: var(--font-family-font-1, "Inter-Medium", sans-serif);
+  font-size: 15.875px;
+  line-height: var(--line-height-224, 22.4px);
+  font-weight: var(--font-weight-500, 500);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
